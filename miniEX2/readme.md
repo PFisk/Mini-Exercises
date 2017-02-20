@@ -6,7 +6,7 @@
 
 My coding process have primarily been exploratory and a bit messy. The final product is a result of me trying out different stuff, fiddling around with elements of code that I thought were exciting on the go. I would find something in tutorials on YouTube and on websites, as well as the p5.js reference page itself, and the try it out myself. As with every coding process, there have been a lot of testing were I would write a line of code, then test if it works, write some more, test some more and so on.  
 
-##What constitutes a program
+##What constitutes a program?
 
 In a computer tecnical prospective, a program is made of code. This code determine what the program is capable of and what the purpose is. As a result of this a program can be almost everything.
 
