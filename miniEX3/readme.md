@@ -13,3 +13,5 @@ The basic look and idea was done at this point, but i wasn't satisfied. I wanted
 All in all, the process has been mostly experimental and a bit frustrating at times, but in the end I got the result I was looking for without any compromise.
 
 ##How can we use programming to reflect and inquire digital culture?
+
+The possibilities within programming is almost infinte and as a result of this, the use is as well. However "throbbers" are used for telling the user, that they have to wait. That something is loading. Too further extend, they are most commonly used as a cover for what is really going on. Its a layer that is put up in front off the user too look at while something is going on "behind the scenes". Think of it as a curtain covering up what is happening between acts at a theatre. Essentially, the throbber is not actually bound to the loading as a sign of loading. Its simply an animation circling around, designed to grab the users attention and to show that atleast _something_ is happening. 
