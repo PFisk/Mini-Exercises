@@ -1,3 +1,5 @@
+#Mini Exercise No. 3
+
 ![ScreenShot](Screenshot.PNG)
 
 Link to my throbber: https://pfisk.github.io/Mini-Exercises/miniEX3/index07
