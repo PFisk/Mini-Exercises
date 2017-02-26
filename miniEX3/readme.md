@@ -1,6 +1,6 @@
 ![ScreenShot](Screenshot.PNG)
 
-Link to my throbber: 
+Link to my throbber: https://pfisk.github.io/Mini-Exercises/miniEX3/index07
 
 ##About my design
 
