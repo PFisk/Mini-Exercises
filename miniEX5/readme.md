@@ -1,6 +1,6 @@
 #Super simple word analyzer
 
-
+![ScreenShot](Screenshot.PNG)
 
 ##What it is and functions used
 This final version of what my miniexercise is, is basically a very simple word analyzer tool. You can input your own text, and have it analyzed and displayed on the canvas. The analyzing tool, will output RiTa's default "POS - Part of Speech" (PENN) tags.
@@ -13,3 +13,5 @@ My initial idea was to create a interactive sketch, that would take a simple str
 
 ##Materiality in text/interface
 I think the notion of materiality in these types of programs and works of art is pretty exciting. I like how you can do different interactions with the text and get unlimited amount of different outputs, depending on how the particular program/artwork is setup. Its a powerful tool, that can be used effectively in numerous ways.
+
+Link: 
