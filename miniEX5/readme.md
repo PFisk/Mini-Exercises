@@ -14,4 +14,4 @@ My initial idea was to create a interactive sketch, that would take a simple str
 ##Materiality in text/interface
 I think the notion of materiality in these types of programs and works of art is pretty exciting. I like how you can do different interactions with the text and get unlimited amount of different outputs, depending on how the particular program/artwork is setup. Its a powerful tool, that can be used effectively in numerous ways.
 
-Link: 
+Link: https://pfisk.github.io/Mini-Exercises/miniEX5/index01
