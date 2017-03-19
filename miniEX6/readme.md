@@ -1,6 +1,6 @@
 #Roots
 
-![ScreenShot](Screenshot.png)
+![ScreenShot](Screenshot.PNG)
 
 This program is supposed to resemble some kind of plant growing, hence the name "Roots". The final program code is based on code I found in a processing program I found online. It does have quite a few modifications though. 
 
