@@ -6,9 +6,9 @@ This program is supposed to resemble some kind of plant growing, hence the name 
 
 ##Rules used for generativity
 
-This program uses a couple of different rules that are used for the generativity and the aesthetics of whats generated. First of, i have a rule that calculates the location of where to draw the next circle. This rule is used to reduce the chances of circles overlapping each other and therefore to make the program "branch" out better.
+This program uses a couple of different rules that are used for the generativity and the aesthetics of whats generated. First off, i have a rule that calculates the location of where to draw the next circle. This rule is used to reduce the chances of circles overlapping each other and therefore to make the program "branch" out better.
 In addition, the program has a function to measure which circle is closest to itself. With this, the program can further, by another rule, make a new circle that is exactly the perfect size not to overlap. It by that continues its chain of circles without overlapping.
-Finally, the program has a rule that actually does the exact opposite of generating. This rule stops the animation from running completely. This was not my intention to include at first, but p5.js is not good at handling a lot of particles at once without slowing down a lot. For the purpose of the program and the experience, i was forced to put a cap on the maximum number of circles drawn. 
+Finally, the program has a rule that actually does the exact opposite of generating. This rule stops the animation from running completely. This was not my intention to include at first, but p5.js is not good at handling a lot of particles at once. Very quickly, performance takes a huge hit from this. For the purpose of the program and the experience, i was forced to put a cap on the maximum number of circles drawn. 
 
 
 ##Notions of generativity
