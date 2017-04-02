@@ -75,8 +75,9 @@ push();
   console.log(spectrum)
   translate(width / 2, height / 2);
   //Setting up the correct values for the band. These values are
-  //set to make the band go red when the biggest (to sample a 
-  //conventional equalizer)
+  //set to make the band go red when largest (to sample a 
+  //conventional equalizer). The bigger the amplitude, the closer
+  //to 0 (red) the value gets.
   fill((spectrum[32]*2)*-1 +305, 100, 100);
  
   //Drawing the biggest shape. The shape function is used because 
@@ -92,7 +93,8 @@ push();
     //The size of the shape is responsive to the sound played
     //the specific value of the 32nd value from the array is
     //used, because it worked best with the animation (because 
-    //of the difference in the amplitude of the soundwaves)
+    //of the difference in the amplitude of the soundwaves). 
+    //The larger the soundwave, the bigger the shape gets.
     var r = spectrum[32]+radius/2 + offset;
     var x = r * cos(a);
     var y = r * sin(a);
