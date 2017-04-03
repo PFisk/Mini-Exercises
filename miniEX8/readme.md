@@ -25,9 +25,9 @@ It can be a challenge to work with code that aren't your own. Depending on who w
 
 As Daniel Shiffman is very good at explaining in his tutorials and coding challenges, I didn't find it hard to work with. I had to get used to some of the syntax used in the newly added functions, but by playing around with the code, I figured out pretty quickly.
 
-![Screenshot](Flowchart.PNG)
-
 ## Using flowcharts to communicate and organize
+
+![Screenshot](Flowchart.PNG)
 
 Flowcharts can be a valuable tool, when stitching together larger scale programs. They can be used in a way of organizing and making clear exactly what the program does, why and how. The purpose of them is to simplify what is happening in the given program (or whatever they are created for), both for the programmer or creator himself and for everyone else. They can make reflection upon the given object very easy, no matter each individual skill of the participants.
 
