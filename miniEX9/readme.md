@@ -17,3 +17,5 @@ Acquiring, using and representing the data was for us a frustrating task. Seemin
 Big data has a ton of functions and qualities to it. We had a critic perspective in mind when developing our program and continously discussed how to illustrate the data (ranging from ”thumbs up”, dollar signs etc.), to comment on the political happenings of the world. As mentioned, illustrating these datasets, which often are out of sight in everyday media, is important for the understanding of the world around us. 
 
 ## Link: https://pfisk.github.io/Mini-Exercises/miniEX9/miniEX9
+
+NOTE: GitHub has some issues with the provided API data, as it runs on a http server and not a https. If you can't run it, please download it and try it from your own editor. 
