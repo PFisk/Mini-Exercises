@@ -1,6 +1,6 @@
 # Dronestre.am
 
-[!Screenshot](Screenshot.PNG)
+![Screenshot](Screenshot.PNG)
 
 ## Why this API?
 
